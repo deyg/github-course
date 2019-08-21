@@ -1,7 +1,21 @@
-Git Course
+Tecnologias utilizadas nesta aplicacao WEB: 
 
-Realizando uma modificacao no arquivo de curso do Git.
+Spring, 
+Thymeleaf, 
+JPA, 
+Hibernate, 
+Springboot,
+HTML,
+Javascript,
+Jquery,
+CSS,
+Bootstrap,
+Tomcat
 
-link para mais informacoes: http://git.com
+Aplicacao Action Based Modularizada.
+UI projetada com padrao Decorator visando
+reutilizacao de codigo e manutenibilidade.
 
-Nova modificacao para reforcar o conceito de adicionar e comitar.
+Trabalho futuro adicionar JUnit e adicionar 
+funcionalidades com processo de desenvolvimento
+TDD.
